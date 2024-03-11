@@ -121,7 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.medical_venv
 env/
 venv/
 ENV/
